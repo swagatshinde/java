@@ -1,4 +1,8 @@
-package Ass1;
+// Q.create the hash table that will maintain the mobile number and student name.Display the contact list. 
+// created hashtable object.
+//In Java, the put() method is used to store data in a Map.
+// put is method of map.
+
 import java.util.*;
 public class setAd
 {
@@ -11,3 +15,4 @@ public static void main(String[] args)
 	System.out.println("The contact list is : "+hashtable);	
 }
 }
+
