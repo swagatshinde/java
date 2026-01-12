@@ -1,4 +1,8 @@
-package Ass1;
+//Q.write a program to sort HashMap by keys and display the detail before sorting and after sorting.
+//LinkedHash Map object is created.
+//The entrySet() method returns a Set of all key-value pairs in a Map, allowing you to access both keys and values simultaneously during iteration.
+//Inside the loop, getKey() gets the ID and getValue() gets the Name so you can print them together.
+
 import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Map.Entry;
@@ -28,3 +32,4 @@ public class setBb
 		}	
 	}
 }
+
