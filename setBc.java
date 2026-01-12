@@ -3,9 +3,6 @@
 //corresponding other values from the hash table(use hash table)
 
 // create a .txt fie as name or phone number
-//
-
-
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -54,3 +51,4 @@ sc.close();
 }
 
 }
+
