@@ -1,6 +1,6 @@
 // Q.write a java program to create a new tree set,add some colors (string) and print out the tree set. 
 // created treeset object.
-// using add method it can be accessed.
+// Purpose of add() method: Adds a single value to a group.
 // add is a method of collection
 
 import java.util.Set;
@@ -17,4 +17,5 @@ public static void main(String[] args)
 	System.out.println("The tree set is : "+ts);
 }
 }
+
 
