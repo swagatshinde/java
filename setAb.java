@@ -1,4 +1,7 @@
-package Ass1;
+// Q.write a java program to read 'n' nams of your friend,store it into linked list,also display contents of same.
+// created linkedlist object.
+// using add method it can be accessed.
+
 import java.util.*;
 import java.util.Scanner;
 import java.util.LinkedList;
@@ -19,3 +22,4 @@ al.add(f);
 System.out.println("Friend names are : "+al);
 }
 }
+
