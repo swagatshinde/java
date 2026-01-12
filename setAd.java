@@ -2,6 +2,7 @@
 // created hashtable object.
 //In Java, the put() method is used to store data in a Map.
 // put is method of map.
+//Purpose of put() method: It is used to insert or update a key-value pair in a Map.
 
 import java.util.*;
 public class setAd
@@ -15,4 +16,5 @@ public static void main(String[] args)
 	System.out.println("The contact list is : "+hashtable);	
 }
 }
+
 
