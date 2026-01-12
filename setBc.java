@@ -1,4 +1,12 @@
-package Ass1;
+//Q. write a program that loads names and phone number from text file where the data is organized as one line per record
+//and each field in a record are separated by a tab(\t).it takes name or phone number as input and prints the 
+//corresponding other values from the hash table(use hash table)
+
+// create a .txt fie as name or phone number
+//
+
+
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
@@ -44,4 +52,5 @@ System.out.println("Result not found.");
 }
 sc.close();
 }
+
 }
