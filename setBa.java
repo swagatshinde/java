@@ -1,4 +1,11 @@
-package Ass1;
+ // Q.Accept 'n' integer from the user.store and display integer in sorted order having proper collection class.
+// The collection should not accept duplicate elements.
+// created treeset object.
+// treeset sort value automatically.
+// Purpose of add() method: Adds a single value to a group.
+// the for-each loop visits every single element in the collection from start to finish.
+
+
 import java.util.*;
 import java.util.TreeSet;
 
@@ -25,4 +32,5 @@ public class setBa {
 
         sc.close();
     }
+
 }
