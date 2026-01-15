@@ -1,4 +1,6 @@
-
+// use of two string method
+// It converts an object's data into readable text for printing.
+//write a java program to create employee class and the elements of employee are(eid,name,desg,sal)
 
 import java.util.Scanner;
 public class Employee
@@ -30,3 +32,4 @@ public static void main(String[] args) {
 	
 }
 }
+
