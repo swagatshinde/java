@@ -1,4 +1,3 @@
-package Slip1;
 
 import java.util.Scanner;
 
@@ -7,10 +6,10 @@ class NumberZeroException extends Exception{
 		super(msg);
 	}
 }
-public class Slip14_1 {
+public class exception {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
  
 		Scanner sc=new Scanner(System.in);
 		System.out.println("enter number");
@@ -38,3 +37,4 @@ public class Slip14_1 {
 	}
 
 }
+
