@@ -1,4 +1,4 @@
-
+// write a java program to raise an exception and calculate its factorial.
 import java.util.Scanner;
 
 class NumberZeroException extends Exception{
@@ -37,4 +37,5 @@ public class exception {
 	}
 
 }
+
 
