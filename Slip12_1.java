@@ -1,4 +1,4 @@
-package student;
+
 //Department.java
 import java.util.Scanner;
 
@@ -38,8 +38,8 @@ class Department extends College {
 
 public class Slip12_1 {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	public static void main(String[] args) 
+	{
 		 Department dept = new Department();
 	        dept.acceptDetails();
 	        dept.displayDetails();
@@ -65,4 +65,5 @@ class College {
      System.out.println("College Address: " + caddr);
  }
 }
+
 
