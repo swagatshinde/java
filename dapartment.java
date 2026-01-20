@@ -1,5 +1,9 @@
-
+// Q: Write a Java program to demonstrate Single Level Inheritance.
+// Create a base class College with members cno, cname, and caddr.
+// Create a derived class Department with members dno and dname.
+// Implement methods to accept and display details for both classes using the derived class object.
 //Department.java
+
 import java.util.Scanner;
 
 class Department extends College {
@@ -36,7 +40,7 @@ class Department extends College {
 }
 
 
-public class Slip12_1 {
+public class department {
 
 	public static void main(String[] args) 
 	{
@@ -65,5 +69,6 @@ class College {
      System.out.println("College Address: " + caddr);
  }
 }
+
 
 
