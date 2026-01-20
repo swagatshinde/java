@@ -45,7 +45,7 @@ class MyDate {
     }
 }
 
-public class Slip21_1 {
+public class Date {
     public static void main(String[] args) {
         System.out.println("Q1: MyDate Validation");
         MyDate d = new MyDate();
@@ -58,5 +58,6 @@ public class Slip21_1 {
 
     }
 }
+
 
 
