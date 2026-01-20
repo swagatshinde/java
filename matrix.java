@@ -1,7 +1,7 @@
 // to print the matrix and its transpose
 import java.util.Scanner;
 
-public class Matrix {
+public class matrix {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
@@ -45,4 +45,5 @@ public class Matrix {
 	}
 
 }
+
 
