@@ -1,4 +1,7 @@
-package Slip1;
+// Question: Write a Java program to define a class MyDate with day, month, and year.
+// Create a user-defined exception InvalidDateException.
+// Accept a date from the user and validate it (handle month limits and leap years).
+// If the date is invalid, throw the exception; otherwise, display the date in dd/mm/yyyy format.
 
 import java.util.Scanner;
 
@@ -55,4 +58,5 @@ public class Slip21_1 {
 
     }
 }
+
 
