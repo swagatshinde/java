@@ -1,8 +1,8 @@
-package Slip1;
+// to print te diagonal elements os matrix
 
 import java.util.Scanner;
 
-public class Slip19_1 {
+public class digonal {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -29,3 +29,4 @@ public class Slip19_1 {
         System.out.println("Sum of diagonal elements: " + sum);
     }
 }
+
