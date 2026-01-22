@@ -7,7 +7,7 @@ interface Operation{
 	float PI= 3.14f;
 	
 }
-public class Slip11_1 implements Operation {
+public class interface implements Operation {
 
 	public static void main(String[] args) {
 	Slip11_1 c=new Slip11_1();
@@ -25,4 +25,5 @@ public class Slip11_1 implements Operation {
 	}
 
 }
+
 
