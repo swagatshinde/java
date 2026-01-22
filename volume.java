@@ -1,4 +1,4 @@
-package student;
+
 
 import java.util.Scanner;
 
@@ -25,3 +25,4 @@ public class Slip11_1 implements Operation {
 	}
 
 }
+
