@@ -1,8 +1,13 @@
-package Slip1;
-
+// Java Programming QuestionProblem Statement:Design a Java program to maintain customer account details using Multilevel Inheritance.
+// Class Account: Create a base class with data members custname and accno. Include a parameterized constructor.
+// Class SavingAccount: Derive this class from Account with additional data members savingbal and minbal. Include a parameterized constructor.
+// Class AccountDetail: Derive this class from SavingAccount with data members depositamt and withdrawalamt.
+// Requirements:Implement a method displayCustomerDetails() in AccountDetail to display all information and calculate the
+// Final Balance ($SavingBalance + Deposit - Withdrawal$).Accept details for a customer from the user using the Scanner class and 
+// display the final account statement.
 import java.util.Scanner;
 
-public class Slip15_2 {
+public class amount {
 
 	  public static void main(String[] args) {
 	        Scanner sc = new Scanner(System.in);
@@ -101,3 +106,4 @@ class AccountDetail extends SavingAccount {
      }
  }
 }
+
