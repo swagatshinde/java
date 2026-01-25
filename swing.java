@@ -1,9 +1,10 @@
-package Slip1;
-
+//Write a Java program using the Swing framework to create a graphical user interface (GUI) that contains a JComboBox populated with various subjects. 
+//When a user selects a subject from the dropdown list, the selected item should automatically be displayed in an adjacent JTextField. 
+//Use appropriate Layout Managers and Event Handling to achieve this."
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
-public class Slip19_2 extends JFrame implements ActionListener
+public class swing extends JFrame implements ActionListener
 {
 JComboBox cb;
 JTextField t;
@@ -49,6 +50,7 @@ t.setText(selected);
 // Main method
 public static void main(String[] args)
 {
-new Slip19_2();
+new swing();
 }
+
 }
