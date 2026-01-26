@@ -1,6 +1,8 @@
-package Slip1;
-
-
+//Q:Write a Java program to implement inheritance for a Vehicle system:Vehicle (Base): company, price.
+//LightMotorVehicle (Derived): Adds mileage.HeavyMotorVehicle (Derived): Adds capacity_in_tons.
+//Requirements:Use parameterized constructors and the super keyword.
+//Override the display() method to show details.Accept $n$ objects from the user, determine their 
+//type (Light/Heavy), and display all information.
 import java.util.Scanner;
 
 class Vehicle {
@@ -86,3 +88,4 @@ public class Slip29_2 {
         }
     }
 }
+
