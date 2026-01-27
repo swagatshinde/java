@@ -1,8 +1,10 @@
-package Slip1;
-
+//Question: Write a Java program to create an Employee class containing attributes id, name, deptname, and salary.
+//Use a static variable to count the number of objects created and display this count along with employee details 
+//every time an object is initialized using a parameterized constructor.
+//Implement constructor chaining to handle default values.
 import java.util.Scanner;
 import java.io.*;
-public class Slip15_1 {
+public class emp {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
@@ -36,3 +38,4 @@ public class Slip15_1 {
 	}
 
 }
+
