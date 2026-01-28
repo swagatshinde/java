@@ -1,5 +1,3 @@
-package Slip1;
-
 class Employee1 {
     int id;
     String name;
@@ -43,3 +41,4 @@ public class Slip21_2 {
         Employee1 e3 = new Employee1(103, "Amit", "Sales", 55000);
     }
 }
+
