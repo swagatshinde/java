@@ -1,5 +1,5 @@
-package Slip1;
-
+//Write a Java program that accepts an integer from the user.
+//If the user enters 0, the program should throw a user-defined exception named NumberZeroException with the message "Number is zero". Otherwise, if the number is valid, calculate and display its factorial.
 import java.util.Scanner;
 
 class NumberZeroException extends Exception{
@@ -7,7 +7,7 @@ class NumberZeroException extends Exception{
 		super(msg);
 	}
 }
-public class Slip14_1 {
+public class factorial {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -38,3 +38,4 @@ public class Slip14_1 {
 	}
 
 }
+
