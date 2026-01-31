@@ -1,8 +1,3 @@
-package Slip1;
-
-
-
-
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Locale;
@@ -36,3 +31,4 @@ public class Slip13_2 {
         System.out.println("Current date and time is : " + format5.format(currentDate));
     }
 }
+
