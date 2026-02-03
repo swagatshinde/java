@@ -1,9 +1,8 @@
-package Slip1;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Slip3_1 {
+public class citysort {
 
 	public static void main(String[] args) {
 		
@@ -25,3 +24,4 @@ public class Slip3_1 {
 	}
 
 }
+
