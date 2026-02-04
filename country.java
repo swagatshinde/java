@@ -1,4 +1,4 @@
-package Slip1;
+
 class cont{
 	String cont_name;
 	cont(String cont_name)
@@ -28,7 +28,7 @@ String place;
 	
 }
 
-public class Slip5_1 {
+public class country {
 
 	public static void main(String[] args) {
 		
@@ -38,3 +38,4 @@ public class Slip5_1 {
 	}
 
 }
+
