@@ -1,4 +1,3 @@
-package Slip1;
 
 import java.util.Scanner;
 
@@ -25,7 +24,7 @@ class Bank{
 	}
 	
 }
-public class Slip7_1 {
+public class bank {
 	public static void main(String[] args) {
 	
  Bank b=new Bank();
@@ -34,3 +33,4 @@ public class Slip7_1 {
  b.display();
 	}
 }
+
