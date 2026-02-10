@@ -16,7 +16,7 @@ class Sphere{
 		System.out.println("Volume :"+((4/3)*3.14*r*r*r));
 	}
 }
-public class Slip8_1 {
+public class sphere {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
@@ -30,4 +30,5 @@ public class Slip8_1 {
 	}
 
 }
+
 
