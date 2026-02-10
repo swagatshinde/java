@@ -1,5 +1,3 @@
-package Slip1;
-
 import java.util.Scanner;
 
 class Sphere{
@@ -32,3 +30,4 @@ public class Slip8_1 {
 	}
 
 }
+
