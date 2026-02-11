@@ -1,3 +1,4 @@
+package Slip1;
 
 import java.awt.*;
 import java.awt.event.*;
@@ -168,4 +169,3 @@ public class MyCalculator implements ActionListener {
         new MyCalculator();
     }
 }
-
