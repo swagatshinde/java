@@ -2,7 +2,7 @@
 import java.util.*;
 import java.util.Scanner;
 import java.util.ArrayList;
-public class setAa
+public class ArrayListDemo
 {
 public static void main(String[] args)
 {
