@@ -1,4 +1,4 @@
-package Ass1;
+
 import java.util.*;
 public class number
 {
