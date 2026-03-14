@@ -1,4 +1,4 @@
-
+// by extending Thread
 public class MultithradingDemo extends Thread 
 {
 	public void run()
