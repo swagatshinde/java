@@ -1,4 +1,4 @@
-// by using Runnable interface 
+// by implementing Runnable interface 
 public class MultithreadingDemo1 implements Runnable
 {
 	public void run()
